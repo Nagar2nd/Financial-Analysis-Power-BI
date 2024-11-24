@@ -51,13 +51,14 @@ This repository contains a comprehensive analysis of financial and credit card u
 ---
 
 ## **Repository Contents**  
-- `Financial Analysis.pbix`: Power BI file containing the interactive dashboards.  
-- `Documentation.pdf`: Detailed documentation of data cleaning, transformation, and key steps.  
-- `Datasets/`: Includes raw and cleaned datasets used for analysis.  
+- `Financial_analysis.pbix`: Power BI file containing the interactive dashboards.  
+- `Financial Analysis - POWER BI.pdf`: Detailed documentation of data cleaning, transformation, and key steps.  
+- `Financial-data/`: Includes raw and cleaned datasets used for analysis.  
 
 ---
 
 ## **How to Use**  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/Nagar2nd/
+   git clone https://github.com/Nagar2nd/Financial-Analysis-Power-BI.git
+   
